@@ -35,5 +35,5 @@ Class #/Date/Info
 
 Class 1: Aug. 22, 2016
 
-Test line
+Testing to make sure we can pull properly.
 
