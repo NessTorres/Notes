@@ -35,4 +35,35 @@ Class #/Date/Info
 
 Class 1: Aug. 22, 2016
 
-Hi
+Intro.
+
+****************************************************
+
+Class 2: Aug. 24, 2016
+
+Computational Thinking
+	Algorithmic thinking
+	{
+		43 + 39 = 82
+		Step by step
+	}
+	Evaluation
+	{
+		Why does it work?
+	}
+	Decomposition
+	{
+		break it down into part.
+	}
+	Abstraction
+	{
+		Taking an idea and turning it into a more concrete calue
+	}
+	Generalization
+	{
+		Not explicitly stating the values, but making them variables
+	}
+	Behavioral Skill(Persistent/Creativity)
+	{
+		
+	}
